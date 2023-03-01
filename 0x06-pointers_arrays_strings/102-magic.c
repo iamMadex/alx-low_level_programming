@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+ * main - the program prints followed by a new line.
+ * Return 0 success
+ */
 int main(void)
 {
 int n;
